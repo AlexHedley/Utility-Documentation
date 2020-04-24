@@ -18,7 +18,91 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "FwLErYOxMifsZ2ohJzDVJQ=="
+          "hash": "9iJ92jzDvsxwqjiWIK6Ncg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utility.AboutBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utility.AboutBox.html",
+          "hash": "1hTFoS5x9/W+PGnHro4jXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utility.IndentWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utility.IndentWriter.html",
+          "hash": "XIHxPx3xWe+31pjxbabs6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utility.JsonFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utility.JsonFormatter.html",
+          "hash": "UEjkoEClTYg3uhXSN+hDWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utility.SplashScreen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utility.SplashScreen.html",
+          "hash": "Q87IU5WtVOv/gK5Rj03TMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utility.StringWalker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utility.StringWalker.html",
+          "hash": "95+hV11O2RLycazQpZLUeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utility.frmUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utility.frmUtility.html",
+          "hash": "b7zOxEADK4UwKthNLE9hog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Utility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Utility.html",
+          "hash": "5Q8DHcySAFcjWU/W/3CMPQ=="
         }
       },
       "is_incremental": false,
@@ -30,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "PAcfZBI7GkhBUTUKC/L3+A=="
+          "hash": "+uJiUipOe3uu7qoUz3ysZw=="
         }
       },
       "is_incremental": false,
@@ -42,7 +126,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "H5frWk4fYGIWHpFNp3BdfA=="
+          "hash": "boN6B+9/9WTdmj5VuC6XiA=="
         }
       },
       "is_incremental": false,
@@ -54,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "okoFgsxM4p1u9rdFAnOQ+Q=="
+          "hash": "d6DQTQZIEb6fXAXHa9kXqg=="
         }
       },
       "is_incremental": false,
@@ -66,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/mac/mac.html",
-          "hash": "XKfxlEW7HAmivzgQ6q4b5g=="
+          "hash": "4JX6jXDSoCK0LG/+QWIWGg=="
         }
       },
       "is_incremental": false,
@@ -90,7 +174,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/web/web.html",
-          "hash": "ICVObFXaDX+jocJJ1Nls4Q=="
+          "hash": "svhjVJmohajR6y8vD7nX1g=="
         }
       },
       "is_incremental": false,
@@ -102,7 +186,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/windows/windows.html",
-          "hash": "DsvRlaWxtHgAEo8ib9XMuw=="
+          "hash": "w1/68A73LtAGrfgYRKKAFw=="
         }
       },
       "is_incremental": false,
@@ -114,7 +198,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "zCMl28GHjuSTElnhZcuHsw=="
+          "hash": "XqelRbQMhVQ0GqUeYXBdtw=="
         }
       },
       "is_incremental": false,
@@ -146,7 +230,13 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 7,
-          "skipped_file_count": 4
+          "skipped_file_count": 7
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 7,
+          "skipped_file_count": 7
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
