@@ -1,0 +1,37 @@
+{
+  "api/index.html": {
+    "href": "api/index.html",
+    "title": "PLACEHOLDER | docfx test website",
+    "keywords": "PLACEHOLDER TODO: Add .NET projects to the src folder and run docfx to generate REAL API Documentation !"
+  },
+  "articles/intro.html": {
+    "href": "articles/intro.html",
+    "title": "Introduction | docfx test website",
+    "keywords": "Introduction Welcome to the Utility Documentation site. Here you will find both the API docs for the code that has built the tool(s) and a set of helpful Articles to help you use them."
+  },
+  "articles/mac/mac.html": {
+    "href": "articles/mac/mac.html",
+    "title": "Mac | docfx test website",
+    "keywords": "Mac A Mac app written around Jan 2016, this was a port of the original Utility app Code"
+  },
+  "articles/web/web.html": {
+    "href": "articles/web/web.html",
+    "title": "Web | docfx test website",
+    "keywords": "Web A port of the original apps to the Web. Code Site"
+  },
+  "articles/windows/windows.html": {
+    "href": "articles/windows/windows.html",
+    "title": "Windows | docfx test website",
+    "keywords": "Windows VB.NET A Windows app written in vb.net in around Jul 2015 Code WPF Utility WPF is a port of my original Utility app to WPF. Code"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | docfx test website",
+    "keywords": "This is the HOMEPAGE . Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  },
+  "README.html": {
+    "href": "README.html",
+    "title": "Utility Documentation | docfx test website",
+    "keywords": "Utility Documentation | This Utility Documentation has been built with DocFX . It will contain both the API for the apps and Documentation to help use the apps. Site Apps Windows VB.NET A Windows app written in vb.net in around Jul 2015 Code WPF Utility WPF is a port of my original Utility app to WPF. Code Mac A Mac app written around Jan 2016, this was a port of the original Utility app Code Utility Web A port of the original apps to the Web. Code Site"
+  }
+}
