@@ -6,6 +6,6 @@ Here you will find both the API docs for the code that has built the tool(s) and
 
 There are a number of Apps you can view:
 
-- [Windows](/articles/windows/windows.md)
-- [Mac](/articles/mac/mac.md)
-- [Web](/articles/web/web.md)
+- [Windows](windows/windows.md)
+- [Mac](mac/mac.md)
+- [Web](web/web.md)
