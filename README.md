@@ -4,6 +4,8 @@
 |
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
 
+![github pages](https://github.com/alexhedley/Utility-Documentation/workflows/github%20pages/badge.svg)
+
 This Utility Documentation has been built with [DocFX](https://dotnet.github.io/docfx/).
 
 It will contain both the API for the apps and Documentation to help use the apps.
