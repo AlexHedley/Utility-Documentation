@@ -25,12 +25,1008 @@
       "version": ""
     },
     {
+      "type": "ManagedReference",
+      "source_relative_path": "api-vb/Utility.AboutBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-vb/Utility.AboutBox.html",
+          "hash": "y03nrd/S04mbmdtp4G14aA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-vb/Utility.IndentWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-vb/Utility.IndentWriter.html",
+          "hash": "k0gp+25AJZxA8iKmbaKfMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-vb/Utility.JsonFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-vb/Utility.JsonFormatter.html",
+          "hash": "XzGwZOwabD2/1rAb+RCRvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-vb/Utility.SplashScreen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-vb/Utility.SplashScreen.html",
+          "hash": "TICDZ5UNXiufeD1w83WVUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-vb/Utility.StringWalker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-vb/Utility.StringWalker.html",
+          "hash": "MOF5mTs/kP3Ur/g9RyjJmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-vb/Utility.frmUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-vb/Utility.frmUtility.html",
+          "hash": "PZydAqNU+jVrZUnW3dMMaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-vb/Utility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-vb/Utility.html",
+          "hash": "R5rLspt5vC8VZmKKYirngA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "api-vb/index.md",
       "output": {
         ".html": {
           "relative_path": "api-vb/index.html",
-          "hash": "KbAGvRBZUTe5gpCsXzby+Q=="
+          "hash": "pvF/Gxd1tRcVH2t6R8a/Yw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api-vb/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-vb/toc.html",
+          "hash": "pgW7dvA1pCSlwDnENAm2yA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.App.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.App.html",
+          "hash": "WIGqVCoSwWjCURST4pAH/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Core.Extensions.CollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Core.Extensions.CollectionExtensions.html",
+          "hash": "mPVO7+PxabfD7whDtyhodw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Core.Extensions.WebBrowserExtentions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Core.Extensions.WebBrowserExtentions.html",
+          "hash": "ZhzZWczL5b6hiQOUCpQrpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Core.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Core.Extensions.html",
+          "hash": "zB256lILlMZ5d90NGIn5uQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Core.Mvvm.RegionViewModelBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Core.Mvvm.RegionViewModelBase.html",
+          "hash": "bhkc+url5tTMVAZ3Bhf5FA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Core.Mvvm.ViewModelBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Core.Mvvm.ViewModelBase.html",
+          "hash": "zumFy0qe93OBBoreoH0OeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Core.Mvvm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Core.Mvvm.html",
+          "hash": "68HjYaSEanvFi6Y80MnqMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Core.RegionNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Core.RegionNames.html",
+          "hash": "GHEHrC8FlJYNsvU/GaukgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Core.html",
+          "hash": "vSje5LnHlYVvLhDTFI+VMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.DynamicDirectoryModuleCatalog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.DynamicDirectoryModuleCatalog.html",
+          "hash": "V7eq7+WnIWwUSlKIbUGvhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.Guid.GuidModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.Guid.GuidModule.html",
+          "hash": "twxGhGeix0fBRzR4Ap+9dQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.Guid.ViewModels.GuidViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.Guid.ViewModels.GuidViewModel.html",
+          "hash": "FaCk0bY0hl4QDLy8B+8nJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.Guid.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.Guid.ViewModels.html",
+          "hash": "haICI1h56hQlGOlsq4jGBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.Guid.Views.GuidView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.Guid.Views.GuidView.html",
+          "hash": "SmdBodP5aL//0W4wDyso3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.Guid.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.Guid.Views.html",
+          "hash": "snUVOyUcA/LY3AHqRgsndg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.Guid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.Guid.html",
+          "hash": "UIHjPeGIrnAQswAfHeY6pQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.HTML.HTMLModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.HTML.HTMLModule.html",
+          "hash": "reBNtttlqsyrYdUKbT+6Og=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.HTML.ViewModels.HtmlViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.HTML.ViewModels.HtmlViewModel.html",
+          "hash": "iBVTJhdHT50qIEqcDjwFVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.HTML.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.HTML.ViewModels.html",
+          "hash": "Qe6mxyaXzQrdOwb/GFp3hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.HTML.Views.HtmlView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.HTML.Views.HtmlView.html",
+          "hash": "lt7e9NvaJ1jW/66+o0+WKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.HTML.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.HTML.Views.html",
+          "hash": "e/nYHkmEbP1979oNLKRu6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.HTML.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.HTML.html",
+          "hash": "quKq489VkLRijOETfedx7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.JSONPPModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.JSONPPModule.html",
+          "hash": "PQcaMWjanexgQsImrbs4lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.ViewModels.JSONPPViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.ViewModels.JSONPPViewModel.html",
+          "hash": "oT7tOYiG3+ERMA0ryHesHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.ViewModels.html",
+          "hash": "mzKQmsf1TowFaESGMqfzww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.Views.JSONPPView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.Views.JSONPPView.html",
+          "hash": "RDL4Hq66AMYLC61Vag5HwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.Views.html",
+          "hash": "bVUbCDRiRdxSn+VY0S9x8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.JSONPP.html",
+          "hash": "iZXRD5hzbO18Oe12cQ53Lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.SqlBuilderModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.SqlBuilderModule.html",
+          "hash": "w4YBs+h7/+b+5ndOGlrQFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.ViewModels.SqlBuilderViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.ViewModels.SqlBuilderViewModel.html",
+          "hash": "PcB4t4wHXnua3T+ruHMIMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.ViewModels.html",
+          "hash": "DL0G6WPO4BHLWJvUY8KaDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.Views.SqlBuilderView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.Views.SqlBuilderView.html",
+          "hash": "kozJH3YMQwIjhHQmjAs1Mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.Views.html",
+          "hash": "dUBZ4mbhOkO+NQajtknibA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlBuilder.html",
+          "hash": "Z88sZFWd5dn1ZWM5aN9Sew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.SqlFormatterModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.SqlFormatterModule.html",
+          "hash": "24iOWKNOn4ASF4TqtXWd2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.ViewModels.SqlFormatterViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.ViewModels.SqlFormatterViewModel.html",
+          "hash": "A983JjsEQsfb6olekMjqXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.ViewModels.html",
+          "hash": "ArRpbJa/Nmw3KjpMnVYBdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.Views.SqlFormatterView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.Views.SqlFormatterView.html",
+          "hash": "dy2zJ56MKzL0eoihrEfegw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.Views.html",
+          "hash": "OztFyk4ajULdzH349WbjYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.SqlFormatter.html",
+          "hash": "ROee9bbWDlgfQz9rCTCrUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.URL.URLModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.URL.URLModule.html",
+          "hash": "bhWKc4R8ocTTYbx+/CF71Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.URL.ViewModels.UrlViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.URL.ViewModels.UrlViewModel.html",
+          "hash": "2ce4kNJQ5zTupUp5R7PF8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.URL.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.URL.ViewModels.html",
+          "hash": "Tz4OU8boX1y4Cmgw+m2llQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.URL.Views.UrlView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.URL.Views.UrlView.html",
+          "hash": "62DAj+NFgqyCX5uZHcCpVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.URL.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.URL.Views.html",
+          "hash": "guNqDFMoDhTIsIDvJJJlJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.URL.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.URL.html",
+          "hash": "h7ir+qemPWqH3SXj5aL51g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.ViewModels.XMLPPViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.ViewModels.XMLPPViewModel.html",
+          "hash": "lVNoMmRBAUXTyF7CGZ11qQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.ViewModels.html",
+          "hash": "MQHxZIMIZeDcRhBaPYGfIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.Views.XMLPPView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.Views.XMLPPView.html",
+          "hash": "sIqodif6woivavJrOs99Sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.Views.html",
+          "hash": "fxbox8UxHPiWkm4RxDOwHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.XMLPPModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.XMLPPModule.html",
+          "hash": "JWjgfXnKRWWl9CnIvS9qgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Modules.XMLPP.html",
+          "hash": "77+czH3RV6z8lTX+eehrGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.Interfaces.IJSONService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.Interfaces.IJSONService.html",
+          "hash": "OYrFm5VXGoVv7UbJ0fgMFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.Interfaces.ISqlService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.Interfaces.ISqlService.html",
+          "hash": "Xy1bKDClw77d8MamDvSyJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.Interfaces.IWebHelperService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.Interfaces.IWebHelperService.html",
+          "hash": "Q4naSL+FD2fHDl5CdMaonw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.Interfaces.IXMLService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.Interfaces.IXMLService.html",
+          "hash": "0lmgzd9DYb/tRjt+8txaEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.Interfaces.html",
+          "hash": "RB9nZUN8X0kwpYUxVqatRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.JSONService.IndentWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.JSONService.IndentWriter.html",
+          "hash": "fzNgu1T3EboM6eYc0t7oag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.JSONService.JsonFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.JSONService.JsonFormatter.html",
+          "hash": "1lfWslXmQjpMcPbXsb4rOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.JSONService.StringWalker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.JSONService.StringWalker.html",
+          "hash": "N7svTUD2TLNfmXjAw0SPsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.JSONService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.JSONService.html",
+          "hash": "MoStzKTBErRUx8DetWTT2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.SqlService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.SqlService.html",
+          "hash": "wSfcJyoKfDz2+5wZIgX/QQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.Tests.JSONServiceTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.Tests.JSONServiceTests.html",
+          "hash": "xEvS4E1BPTF1701GKJpreA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.Tests.SqlServiceTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.Tests.SqlServiceTests.html",
+          "hash": "X6NbVYVlg1B8GcSniqSkJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.Tests.WebHelperServiceTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.Tests.WebHelperServiceTests.html",
+          "hash": "pXTOTeiVZcsA+bFD8OySLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.Tests.XMLServiceTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.Tests.XMLServiceTests.html",
+          "hash": "SpcOBrhUqgH3ZyUez5BCRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.Tests.html",
+          "hash": "OiLtd4SbiP0QSHZS3hTljQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.WebHelperService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.WebHelperService.html",
+          "hash": "Bm2x+vdbyfLoPtKOrv7I4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.XMLService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.XMLService.html",
+          "hash": "hwEHPIQYPWUSZwf/XwLWIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Services.html",
+          "hash": "KpYp+aqKuOww2lG7C7FWvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.ViewModels.MainWindowViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.ViewModels.MainWindowViewModel.html",
+          "hash": "8ylcvLWnBGKcAVZd3HfwYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.ViewModels.html",
+          "hash": "fYxCaBGUIpZPgG5b4Hx3RA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Views.MainWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Views.MainWindow.html",
+          "hash": "Ors+ANcwCav/nDnf2EXxeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.Views.html",
+          "hash": "2xcLq5Yt45fT4X4OtKEScw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-wpf/Utility_WPF.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/Utility_WPF.html",
+          "hash": "Pc3lVvWNFLtVe2vhkVzUcQ=="
         }
       },
       "is_incremental": false,
@@ -42,7 +1038,19 @@
       "output": {
         ".html": {
           "relative_path": "api-wpf/index.html",
-          "hash": "9j2pjCF51rV8C8XIerT0PA=="
+          "hash": "1+Q8polRF5oxuKTE1BHQ9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api-wpf/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-wpf/toc.html",
+          "hash": "OiO+j9tayaEykRbpvQn4xA=="
         }
       },
       "is_incremental": false,
@@ -126,7 +1134,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "kdlpMhW/99JRjiEz1fw5xw=="
+          "hash": "Db81nqbCICLCtS7m6R6vuA=="
         }
       },
       "is_incremental": false,
@@ -155,6 +1163,12 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 8,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 82,
           "skipped_file_count": 0
         }
       }
