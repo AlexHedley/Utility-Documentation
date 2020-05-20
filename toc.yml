@@ -1,5 +1,8 @@
 - name: Articles
   href: articles/
-- name: Api Documentation
-  href: api/
-  homepage: api/index.md
+- name: Api vb Documentation
+  href: api-vb/
+  homepage: api-vb/index.md
+- name: Api WPF Documentation
+  href: api-wpf/
+  homepage: api-wpf/index.md

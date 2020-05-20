@@ -4,13 +4,25 @@
       "src": [
         {
           "files": [
-            "src/**.csproj",
-            "src/**.vbproj"
+            "src-vb/**.vbproj"
           ],
           "exclude": [ "**/bin/**", "**/obj/**" ]
         }
       ],
-      "dest": "api",
+      "dest": "api-vb",
+      "disableGitFeatures": false,
+      "disableDefaultFilter": false
+    },
+    {
+      "src": [
+        {
+          "files": [
+            "src-wpf/**.csproj"
+          ],
+          "exclude": [ "**/bin/**", "**/obj/**" ]
+        }
+      ],
+      "dest": "api-wpf",
       "disableGitFeatures": false,
       "disableDefaultFilter": false
     }
@@ -19,8 +31,14 @@
     "content": [
       {
         "files": [
-          "api/**.yml",
-          "api/index.md"
+          "api-vb/**.yml",
+          "api-vb/index.md"
+        ]
+      },
+      {
+        "files": [
+          "api-wpf/**.yml",
+          "api-wpf/index.md"
         ]
       },
       {
@@ -46,7 +64,8 @@
         ],
         "exclude": [
           "obj/**",
-          "_site/**"
+          "_site/**",
+          "docs/**"
         ]
       }
     ],
