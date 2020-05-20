@@ -1,13 +1,23 @@
 {
+  "articles/windows/windows.html": {
+    "href": "articles/windows/windows.html",
+    "title": "Windows | Utility Documentation",
+    "keywords": "Windows VB.NET A Windows app written in vb.net in around Jul 2015 Code WPF Utility WPF is a port of my original Utility app to WPF. Code"
+  },
+  "api-vb/index.html": {
+    "href": "api-vb/index.html",
+    "title": "API Documentation | Utility Documentation",
+    "keywords": "API Documentation API Documentation for the Utility app written in VB"
+  },
+  "articles/web/web.html": {
+    "href": "articles/web/web.html",
+    "title": "Web | Utility Documentation",
+    "keywords": "Web A port of the original apps to the Web. Code Site"
+  },
   "index.html": {
     "href": "index.html",
     "title": "Utility Documentation | Utility Documentation",
     "keywords": "Utility Documentation Hi and welcome to the Utility Documentation site. Go right ahead and read the Articles to get up to speed. Or if you want to use the Utility App then the quickest one is the Web"
-  },
-  "api/index.html": {
-    "href": "api/index.html",
-    "title": "Utility | Utility Documentation",
-    "keywords": "Utility See the side bar for classes."
   },
   "README.html": {
     "href": "README.html",
@@ -19,19 +29,14 @@
     "title": "Mac | Utility Documentation",
     "keywords": "Mac A Mac app written around Jan 2016, this was a port of the original Utility app Code"
   },
-  "articles/windows/windows.html": {
-    "href": "articles/windows/windows.html",
-    "title": "Windows | Utility Documentation",
-    "keywords": "Windows VB.NET A Windows app written in vb.net in around Jul 2015 Code WPF Utility WPF is a port of my original Utility app to WPF. Code"
-  },
-  "articles/web/web.html": {
-    "href": "articles/web/web.html",
-    "title": "Web | Utility Documentation",
-    "keywords": "Web A port of the original apps to the Web. Code Site"
-  },
   "articles/intro.html": {
     "href": "articles/intro.html",
     "title": "Introduction | Utility Documentation",
     "keywords": "Introduction Welcome to the Utility Documentation site. Here you will find both the API docs for the code that has built the tool(s) and a set of helpful Articles to help you use them. There are a number of Apps you can view: Windows Mac Web"
+  },
+  "api-wpf/index.html": {
+    "href": "api-wpf/index.html",
+    "title": "API Documentation | Utility Documentation",
+    "keywords": "API Documentation API Documentation for the Utility app written in WPF"
   }
 }
