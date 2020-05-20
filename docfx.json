@@ -73,7 +73,8 @@
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "default"
+      "default",
+      "templates/material"
     ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
