@@ -1,0 +1,6 @@
+[submodule "src-vb"]
+	path = src-vb
+	url = https://github.com/AlexHedley/Utility.git
+[submodule "src-wpf"]
+	path = src-wpf
+	url = https://github.com/AlexHedley/Utility-WPF.git
